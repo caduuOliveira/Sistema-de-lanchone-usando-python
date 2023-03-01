@@ -1,4 +1,4 @@
-print('Bem vindo a lanchonete do Carlos Eduardo silva De Oliveira')# identificador
+print('Bem vindo a lanchonete do Carlos Eduardo silva De Oliveira')
 print(' ' *3 ,12 * '*',      'cardapio', '*' * 13)
 print(' ' * 2, '|código|', ' ' * 2,  '  Descrição', ' ' * 5, '|valor|')
 print(' ' * 2, '|  100 |', ' ' , 'cachorro quente',     '   |9,00 |')
